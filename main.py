@@ -2,7 +2,7 @@ import telebot
 from telebot.types import Message
 import random
 
-BOT_TOKEN = '8199176737:AAHHZXcON3sONxWi4zWN71eNnArAwTv-2vA'
+BOT_TOKEN = ''
 data = {}
 bot = telebot.TeleBot(BOT_TOKEN)
 
